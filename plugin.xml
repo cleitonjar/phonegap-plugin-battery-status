@@ -6,7 +6,7 @@
   <keywords>cordova,battery</keywords>
   <repo>https://github.com/phonegap/phonegap-plugin-battery-status.git</repo>
   <issue>https://github.com/phonegap/phonegap-plugin-battery-status/issues</issue>
-  <dependency id="es6-promise-plugin"/>
+  <!-- <dependency id="es6-promise-plugin"/> -->
   <platform name="ios">
     <config-file target="config.xml" parent="/*">
       <feature name="Battery">
