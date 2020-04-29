@@ -6,7 +6,6 @@
   "cordova": {
     "id": "phonegap-plugin-battery-status",
     "platforms": [
-      "android",
       "ios"
     ]
   },
@@ -18,7 +17,6 @@
     "cordova",
     "battery",
     "ecosystem:cordova",
-    "cordova-android",
     "cordova-ios"
   ],
   "scripts": {
